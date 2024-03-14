@@ -1,4 +1,4 @@
-# Multi-Model-Text-Classification
+# Multi-Label-Text-Classification
 
 Welcome to our sentiment analysis project , a robust solution to a multi-label classification problem with nine distinct labels. To address this complex challenge, our approach involves meticulous preprocessing of the dataset to ensure quality input for our model. Leveraging the power of transformer model DistilBERT, we utilize its pre-trained tokenizer to streamline the encoding process. Following this, our model undergoes rigorous training to grasp the intricate relationships between the input data and the diverse labels. The validation phase, conducted on 20% of the entire dataset, is a critical step where we assess the model's performance. Our evaluation metrics include the ROC-AUC curve, accuracy, precision, recall, and F1 score, providing a comprehensive understanding of the model's effectiveness across various dimensions. we invite collaboration and feedback to further enhance the efficiency and accuracy of our sentiment analysis solution.
 
